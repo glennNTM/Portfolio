@@ -35,7 +35,7 @@ export function Projects() {
         },
       ],
       link: "https://example.com/solar-system",
-      githubLink: "https://github.com/username/solar-system",
+      githubLink: "https://github.com/glennNTM/Portfolio.git",
     },
     {
       id: 2,
